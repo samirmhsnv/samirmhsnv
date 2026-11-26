@@ -25,4 +25,4 @@ I work AI-native: I design the architecture, set the guardrails and review every
 `TypeScript` `PHP / Laravel` `Python` `Go` `Swift` `C++` · `Claude / OpenAI APIs` `MCP` `Claude Agent SDK` `RAG` `pgvector` `YOLO` `ONNX` · `Postgres` `Redis` `Docker` `GitHub Actions` `Hetzner` `Cloudflare`
 
 ### 📫 Contact
-Open to remote AI engineering work. Reach me on [LinkedIn](#) or by email.
+Open to remote AI engineering work. Reach me on [LinkedIn](https://www.linkedin.com/in/samirmhsnv) or by email at smhsnv@icloud.com.
